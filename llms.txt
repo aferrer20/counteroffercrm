@@ -1,0 +1,16 @@
+# Counteroffer
+
+> Counteroffer is a custom-built, white-label, all-in-one CRM for small businesses, built by The Chief Negotiators (Chief Negotiators LLC, St. Petersburg, Florida). Each client's CRM is branded with their own company name, logo and colours.
+
+Included in one license: contacts and accounts, sales pipeline, automatic email/call/meeting logging, two-way Outlook and Microsoft Calendar sync, email marketing and drip sequences, quotes and RFQs, DocuSign e-signature, letters of intent, invoices and purchase orders, finance (cash, margin, A/R, A/P), referral tracking, event invitations and RSVP pages, automated prospecting agents, multi-brand reporting and a brand studio.
+
+Pricing: custom build plus annual license, starting at $20,000 per year, optional support. Suited to agencies, consultants, real estate, professional services and sales teams of 2–20 reps. Positioned as a Salesforce and HubSpot alternative for small business.
+
+## Pages
+- [Home](https://www.counteroffercrm.com/): overview, cost comparison, features, pricing, FAQ, demo request
+- [Salesforce alternative](https://www.counteroffercrm.com/salesforce-alternative/)
+- [HubSpot alternative](https://www.counteroffercrm.com/hubspot-alternative/)
+- [White-label CRM](https://www.counteroffercrm.com/white-label-crm/)
+
+## Contact
+- Book a demo: https://www.counteroffercrm.com/#demo
