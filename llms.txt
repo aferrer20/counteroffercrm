@@ -11,6 +11,9 @@ Pricing: custom build plus annual license, starting at $20,000 per year, optiona
 - [Salesforce alternative](https://www.counteroffercrm.com/salesforce-alternative/)
 - [HubSpot alternative](https://www.counteroffercrm.com/hubspot-alternative/)
 - [White-label CRM](https://www.counteroffercrm.com/white-label-crm/)
+- [Real estate CRM](https://www.counteroffercrm.com/real-estate-crm/): for brokerages and agent teams
+- [CRM for agencies](https://www.counteroffercrm.com/crm-for-agencies/): marketing, creative and digital agencies
+- [CRM for consultants](https://www.counteroffercrm.com/crm-for-consultants/): consultants and professional services firms
 
 ## Contact
 - Book a demo: https://www.counteroffercrm.com/#demo

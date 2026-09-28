@@ -5,6 +5,7 @@
 2. Deploy as static, pre-rendered HTML (ask Claude for a "Handoff to Claude Code" export). URLs:
    - `/` ← Counteroffer Website
    - `/salesforce-alternative/` · `/hubspot-alternative/` · `/white-label-crm/`
+   - `/real-estate-crm/` · `/crm-for-agencies/` · `/crm-for-consultants/`
    - `/robots.txt` `/sitemap.xml` `/llms.txt` at the root
    - `/assets/og-counteroffer.png`
 3. Replace `G-XXXXXXXXXX` with your GA4 Measurement ID (all 4 pages). In GA4, mark `generate_lead` as a key event.
@@ -19,9 +20,10 @@
 
 ## Weekly content (target keywords)
 Publish one page per week, each linking to the home page and one comparison page:
-1. CRM for real estate brokerages
-2. CRM for marketing agencies
-3. CRM for consultants
+(Real estate, agencies and consultants pages are live.)
+1. CRM for mortgage brokers
+2. CRM for law firms
+3. CRM for financial advisors
 4. Salesforce vs HubSpot for small business (neutral comparison, Counteroffer as option 3)
 5. How much does a CRM cost for a small business in 2026
 6. CRM with invoicing built in
