@@ -35,3 +35,9 @@ Publish one page per week, each linking to the home page and one comparison page
 - Link counteroffercrm.com from LinkedIn company page, Amanda's profile, and partner sites.
 - List on G2, Capterra and GetApp (free vendor listings).
 - Refresh competitor prices on comparison pages every quarter; update `lastmod` in sitemap.xml.
+
+## SEOquake audit follow-ups (Sept 28, 2026)
+- Fixed: titles ≤60 chars, meta descriptions ≤135 chars, lang="en", meta robots simplified, head tags now in raw HTML.
+- GA4: replace G-XXXXXXXXXX in every index.html (search/replace across the folder).
+- HSTS: GitHub Pages cannot set custom headers. Tick "Enforce HTTPS" in Settings → Pages. For a full HSTS header, put the domain behind Cloudflare (free) → SSL/TLS → Edge Certificates → enable HSTS (max-age 6 months, include subdomains) once HTTPS works everywhere.
+- Hreflang: not needed (single-language US site).
